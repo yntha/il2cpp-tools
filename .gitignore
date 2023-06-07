@@ -1,2 +1,5 @@
 samples/
-tools/dump_il2cppstrings_out/
+tools/*_out/
+**/__pycache__
+**/*.bak
+.wip/
